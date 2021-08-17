@@ -93,7 +93,7 @@ header a:hover {
 
 #showcase {
     min-height: 400px;
-    background:url("https://d334lak5lb2pjo.cloudfront.net/wp-content/uploads/b2b-web-design-examples-min-1220x718-1.jpg") no-repeat 0 -400px;
+    background:url('/images/showcase.jpg') no-repeat 0 -400px;
     text-align: center;
     color: white;
 }
